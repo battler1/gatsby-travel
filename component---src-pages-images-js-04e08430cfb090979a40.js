@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_default=self.webpackChunkgatsby_starter_default||[]).push([[682],{6642:function(e,t,a){"use strict";a.r(t);var l=a(7294),n=a(857),r=a(3751),u=a(6371);t.default=function(){return l.createElement(n.Z,null,l.createElement(r.Z,{title:"Images"}),l.createElement(u.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-images-js-04e08430cfb090979a40.js.map
